@@ -77,3 +77,7 @@ PASSWORD = "your_password"               # Your OpenVAS Password
 PORT_LIST_ID = "33d0cd82-57c6-11e1-8ed1-406186ea4fc5"  # Default "All IANA assigned TCP"
 SCAN_CONFIG_ID = "daba56c8-73ec-11df-a475-002264764cea" # Default "Full and fast"
 REPORT_FORMAT_ID = "c1645568-627a-11e3-a660-406186ea4fc5" # XML Format ID
+
+
+⚠️ Disclaimer
+This tool is intended for educational and authorized security assessment purposes only. You must have explicit permission to scan any network or system. The authors are not responsible for any misuse or damage caused by this tool.

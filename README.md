@@ -2,6 +2,9 @@
 
 A powerful, automated vulnerability assessment tool that integrates **OpenVAS (Greenbone Vulnerability Management)** with **Artificial Intelligence**. This project creates a user-friendly interface to manage scans, analyze reports, and utilize Machine Learning to predict vulnerability severity and suggest remediations.
 
+⚠️ Disclaimer
+This tool is intended for educational and authorized security assessment purposes only. You must have explicit permission to scan any network or system. The authors are not responsible for any misuse or damage caused by this tool.
+
 ## 📖 Overview
 
 This project automates the vulnerability scanning process by connecting directly to the OpenVAS Greenbone Management Protocol (GMP). It goes beyond traditional scanning by incorporating AI models to analyze finding descriptions.
